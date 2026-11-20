@@ -1,2 +1,2 @@
 # ice-cream-dataops
-Cognite Data Fusion Bootcamp
+Cognite Data Fusion Bootcamp - Banglore
