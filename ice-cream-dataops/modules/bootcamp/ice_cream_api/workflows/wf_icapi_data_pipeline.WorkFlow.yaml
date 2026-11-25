@@ -1,0 +1,2 @@
+externalId: wf_icapi_data_pipeline
+description: This workflow orchestrates the data pipeline for the Ice Cream API, handling data ingestion, transformation, and loading processes. It ensures that the data is processed efficiently and is ready for analysis and reporting.
